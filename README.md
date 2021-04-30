@@ -1,4 +1,5 @@
 #rgb açik kaynak kodu arduino
+
 int r = 3;
 int g = 5; //Tanımlamalar RGB
 int b = 6;
